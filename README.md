@@ -5,7 +5,7 @@ This project uses a Convolutional Neural Network (CNN) to recognize American Sig
 ## How to Run
 1.  Clone the repository and install dependencies:
     ```bash
-    git clone https://github.com/PriyanshAg-1/sign-language-recognition.git
+    git clone https://github.com/Satvika2310/sign-language-recognition.git
     cd sign-language-recognition
     pip install -r requirements.txt
     ```
